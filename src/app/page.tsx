@@ -54,6 +54,14 @@ export default function Home() {
               <span>Crypto Avatar</span>
               <span className="text-gray-400">Crypto avatars as a microservice.</span>
             </a>
+            <a
+              href="https://hyper-app.vercel.app/trade/PURR"
+              target="_blank"
+              className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
+            >
+              <span>HyperApp (WIP)</span>
+              <span className="text-gray-400">One single app to access all Hyperliquid markets with the best UI/UX (currently in development)</span>
+            </a>
           </div>
         </div>
 
