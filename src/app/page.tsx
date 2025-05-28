@@ -19,7 +19,7 @@ export default function Home() {
         {/* Today Section */}
         <span className="mb-5 block font-medium sm:mb-6">Today</span>
         <p className="text-gray-400">
-          I'm currently open to work opportunities. I like to build things for end customers and
+          I'm currently open to work opportunities. I like to build things focused on end customers and
           developers, and think deeply about the user interface, how it looks, feels, behaves.
         </p>
         <p className="mt-4 text-gray-400">
@@ -47,7 +47,7 @@ export default function Home() {
               <span className="text-gray-400">A real-time dashboard to compare funding rates across a variety of decentralized exchanges.</span>
             </a>
             <a
-              href="hhttps://crypto-avatar.link/"
+              href="https://github.com/rokitgg/crypto-avatar"
               target="_blank"
               className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
             >
