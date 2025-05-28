@@ -8,7 +8,7 @@ export default function Home() {
       {/* Header */}
       <header className="mb-32 flex flex-col items-start">
         <Link href="/" className="text-medium inline-block font-medium no-underline">
-          Omar Nahid
+          RokitG
         </Link>
         <span className="text-medium font-medium leading-none text-gray-400">
           Software Engineer
