@@ -60,7 +60,7 @@ export default function Home() {
               className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
             >
               <span>HyperApp (WIP)</span>
-              <span className="text-gray-400">One single app to access all Hyperliquid markets with the best UI/UX (currently in development)</span>
+              <span className="text-gray-400">One single app to access all Hyperliquid markets.</span>
             </a>
           </div>
         </div>
