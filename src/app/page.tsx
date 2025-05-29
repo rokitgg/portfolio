@@ -62,6 +62,14 @@ export default function Home() {
               <span>HyperApp (WIP)</span>
               <span className="text-gray-400">One single app to access all Hyperliquid markets.</span>
             </a>
+            <a
+              href="https://hyperchecker.vercel.app/"
+              target="_blank"
+              className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
+            >
+              <span>HyperChecker</span>
+              <span className="text-gray-400">Track your HyperEVM points across top protocols, all in one place.</span>
+            </a>
           </div>
         </div>
 
