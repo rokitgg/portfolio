@@ -31,6 +31,14 @@ export default function Home() {
           <span className="mb-5 block font-medium sm:mb-4">Projects</span>
           <div className="flex flex-col gap-7 sm:gap-4">
             <a
+              href="https://hyperchecker.vercel.app/"
+              target="_blank"
+              className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
+            >
+              <span>HyperChecker</span>
+              <span className="text-gray-400">Track your HyperEVM point programs across top protocols, all in one place.</span>
+            </a>
+            <a
               href="https://github.com/rokitgg/hyperliquid-trades-feed"
               target="_blank"
               className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
@@ -61,14 +69,6 @@ export default function Home() {
             >
               <span>HyperApp (WIP)</span>
               <span className="text-gray-400">One single app to access all Hyperliquid markets.</span>
-            </a>
-            <a
-              href="https://hyperchecker.vercel.app/"
-              target="_blank"
-              className="-mx-3 flex flex-col rounded-md px-3 no-underline hover:bg-gray-800 sm:py-3" rel="noreferrer"
-            >
-              <span>HyperChecker</span>
-              <span className="text-gray-400">Track your HyperEVM points across top protocols, all in one place.</span>
             </a>
           </div>
         </div>
